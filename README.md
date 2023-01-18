@@ -1,0 +1,2 @@
+# nauticalmod
+NauticalMod Discord Bot
